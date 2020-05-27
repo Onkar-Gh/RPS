@@ -1,4 +1,4 @@
-# RPS (experiment using Java)
+# RPS (fun using Java Swing GUI)
 I created this game as to try java swing.
 This is a classic rock-paper-scissors game.
 Just the opponant here is the computer
